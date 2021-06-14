@@ -1,0 +1,17 @@
+{
+  "name": "tg-chart",
+  "version": "1.0.0",
+  "main": "src/data.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "parcel ./src/index.html -p 5500",
+    "build": "parcel build ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
